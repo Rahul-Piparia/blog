@@ -7,9 +7,9 @@ categories: jekyll update
 
 # cloud.github.io
 
-Name : Neel Patel 
+Name : Rahul Piparia
 
-Roll Number : 21BCP298
+Roll Number : 21BCP304
 
 Cloud IA2
 
@@ -22,7 +22,7 @@ Make sure you have Docker installed on your system. You can download and install
 
 Getting Started
 1.To get started with this project, follow these steps:
-  git clone https://github.com/aryan-1503/todo_db.git
+  git clone https://github.com/Rahul-Piparia/proj.git
   
 2.Navigate to the project directory:
   cd your-repo
